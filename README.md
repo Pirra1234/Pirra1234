@@ -10,9 +10,10 @@
 <h2>Sobre mí 😃</h2>
 
 <p align="left">
-🎓 Desarrollador con conocimientos en Python y MariaDB, con certificado de formación.  
-📹 Creo contenido en YouTube para compartir lo que sé.  
-🚀 Apasionado por la programación y el aprendizaje constante.  
+🎓 Estudiante de **Ingeniería en Gestión y Desarrollo de Software**.  
+📜 Tengo certificado en Python y MariaDB.  
+📹 Creador de contenido en YouTube como <strong>@pirra1234</strong>.  
+🚀 Apasionado por la programación, los sistemas y el aprendizaje constante.  
 📫 Contacto: **vegetto1234567810@gmail.com**
 </p>
 
