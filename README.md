@@ -20,6 +20,6 @@
 <h2>Tecnologías que conozco 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,mysql,github,linux,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,github,linux,vscode,kali,pycharm,&perline=10" />
   </a>
 </p>
