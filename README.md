@@ -23,3 +23,8 @@
     <img src="https://skillicons.dev/icons?i=py,html,css,github,linux,vscode,kali,pycharm,&perline=10" />
   </a>
 </p>
+<h3>📄 Certificados:</h3>
+
+- 🐍 [Python Essentials 1 - Cisco (PDF)](./certificados/PythonEssentials1Update20250311-28-ihe7w6.pdf)
+- 🔐 [Introducción a la Ciberseguridad - Cisco (PDF)](./certificados/Introduction_to_Cybersecurity_Badge20241115-26-ffwzkl.pdf)
+- 🤖 [Fundamentos de ChatGPT - SOA (PDF)](./certificados/892_vegetto1234567810@gmail.com.pdf)
